@@ -13,7 +13,7 @@ At last ,the minimum energy of the seam is removed.<br /><br />
 It includes the Vertical dynamic detection like:<br />
 ![](https://github.com/linnananan/SeamCarvingScalingImage/raw/master/VerticalTest/36163.png)
 ![](https://github.com/linnananan/SeamCarvingScalingImage/raw/master/VerticalTest/58098.png)
-![](https://github.com/linnananan/SeamCarvingScalingImage/raw/master/VerticalTest/99817.png)
+![](https://github.com/linnananan/SeamCarvingScalingImage/raw/master/VerticalTest/99817.png)<br />
 and the Horizontal dynamic detection like:<br />
 ![](https://github.com/linnananan/SeamCarvingScalingImage/raw/master/HorizontalTest/72036.png)<br />
 ![](https://github.com/linnananan/SeamCarvingScalingImage/raw/master/HorizontalTest/46638.png)<br />
